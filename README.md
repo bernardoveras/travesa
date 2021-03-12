@@ -11,8 +11,4 @@
   - 💹 [**Back-end**](https://github.com/bernardoveras/travesa-backend) — C#, ASP Net Core e .NET Core 5
   
   ## Owner's
-  
-  <br>
-  <br>
-  <br>
-Esse projeto está sendo feito por: Bernardo Veras, Juan Veras e Leonardo Veras!
+Esse projeto está sendo feito por: [Bernardo Veras](https://github.com/bernardoveras/), [Juan Veras](https://github.com/juanverass) e Leonardo Veras
